@@ -1,4 +1,4 @@
-const topBarCenterText = `EA5JRX - FN04ga`;
+const topBarCenterText = `EA5JRX`;
 // Menu items
 // Structure is as follows HTML Color code, Option, target URL, scaling 1=Original Size, side (optional, nothing is Left, "R" is Right)
 // The values are [color code, menu text, target link, scale factor, side],
