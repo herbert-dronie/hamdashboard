@@ -27,7 +27,7 @@ const aURL = [
   [
     "2196F3",
     "RADAR",
-    "https://weather.gc.ca/?layers=alert,radar&center=43.39961001,-78.53212031&zoom=6&alertTableFilterProv=ON",
+    "https://webcams.windy.com/webcams/public/embed/player?webcamId=1334517004&playerType=day&loop=0&autoPlay=0&autoFullScreenOnOverlayPlay=0&interactive=1&referrer=https%253A%252F%252Fembed.windy.com%252Fconfig%252Fwebcam&sr=3008x1692",
     "1",
     "R"
   ],
