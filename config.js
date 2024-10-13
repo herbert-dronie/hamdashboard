@@ -55,7 +55,8 @@ const aURL = [
 // You can't add more items because there are only 12 placeholders on the dashboard
 // but you can replace the titles and the images with anything you want.
 const aIMG = [
-  ["RADAR", "https://radar.weather.gov/ridge/standard/CONUS_loop.gif"],
+  ["RADAR", "<iframe width="650" height="450" src="https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=default&metricTemp=default&metricWind=default&zoom=8&overlay=wind&product=ecmwf&level=surface&lat=37.853&lon=-1.088" frameborder="0" ></iframe>
+"],
   [
     "LOCAL RADAR",
     "https://radar.weather.gov/ridge/standard/KNQA_loop.gif",
