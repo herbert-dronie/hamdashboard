@@ -55,7 +55,7 @@ const aURL = [
 // You can't add more items because there are only 12 placeholders on the dashboard
 // but you can replace the titles and the images with anything you want.
 const aIMG = [
-  ["RADAR", "<iframe width="600" height="400" src="https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=°C&metricWind=km/h&zoom=8&overlay=wind&product=ecmwf&level=surface&lat=37.884&lon=-1.225&pressure=true&message=true" frameborder="0"></iframe>",
+  ["RADAR", "https://webcams.windy.com/webcams/public/embed/player?webcamId=1334517004&playerType=day&loop=0&autoPlay=0&autoFullScreenOnOverlayPlay=0&interactive=1&referrer=https%253A%252F%252Fembed.windy.com%252Fconfig%252Fwebcam&sr=3008x1692",
   ],
   [
     "LOCAL RADAR",
